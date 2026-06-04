@@ -12,7 +12,7 @@
 #>
 
 # ── Configuration ────────────────────────────────────────────────────────────
-$sampleInterval = 2          # seconds between samples
+$sampleInterval = 1          # seconds between samples
 $keyPollMs      = 50         # key-check granularity inside the sleep
 
 # ── State ────────────────────────────────────────────────────────────────────
